@@ -2,7 +2,7 @@
 Vamos criar um sistema de controle fuzzy que modela como você pode escolher dar gorjeta em um restaurante. Ao dar gorjeta, você considera o serviço e a qualidade da comida, classificados entre 0 e 10. Você usa isso para deixar uma gorjeta entre 0 e 25%.
 
 Nós formularíamos este problema como:
-Antecedanças (Entradas)
+Antecedentes (Entradas)
 
 #### serviço
 
